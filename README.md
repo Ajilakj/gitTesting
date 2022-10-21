@@ -24,11 +24,11 @@ N/A
 
 
   ## Usage
-
+N/A
 
 
   ## Contribution
-To use my website you can click the links 
+Developer 1, Developer 2
 
 
   ## GitHub
